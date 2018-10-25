@@ -15,6 +15,9 @@ public class Item {
         return value;
     }
 
+    /**
+     *Un commentaire répondant à l'exigence #2
+     */
     public void setValue(Object value){
         this.value = value;
     }
