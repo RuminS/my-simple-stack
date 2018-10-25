@@ -3,6 +3,8 @@ package deqo.srum.mysimplestack.MySimpleStack;
 import java.util.EmptyStackException;
 import java.util.Stack;
 
+//un commentaire répondant à l'éxigence #3
+
 public class SimpleStackImpl implements SimpleStack {
 
     Stack<Object> wrappedStack = new Stack<Object>();
