@@ -2,6 +2,9 @@ package deqo.srum.mysimplestack.MySimpleStack;
 
 import java.util.EmptyStackException;
 
+/**
+ * Un commentaire répondant à l'exigence #4
+ */
 public interface SimpleStack {
     
     /**
